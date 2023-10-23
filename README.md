@@ -18,6 +18,10 @@ Based on the below URL, what are the different querystring parameters and their 
 https://api.rawg.io/api/games?platforms=4&genres=action&publishers=354
 ```
 
+platforms=4
+genres=action
+publishers=354
+
 ### Question 3
 
 - Create an async function called `getCatFacts`.
